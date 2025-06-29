@@ -1,16 +1,13 @@
-## Hi there 👋
+# Krisha Mansukhani
 
-<!--
-**klmansuk/klmansuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Scientist**  
+krishamansukhani@hotmail.com | [LinkedIn](https://www.linkedin.com/in/krishamansukhani)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m a Master’s student in Biological Data Science with experience in statistical analysis, data visualization, and clinical research. I work with R, Python, and SAS to clean, analyze, and interpret large-scale healthcare and biomedical datasets. My focus is on producing actionable insights through reproducible and transparent analysis.
+
+---
+
+- **Languages**: R, Python, SAS, and SQL  
+
